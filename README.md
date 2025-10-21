@@ -8,7 +8,7 @@ They can also improve record visibility for all parties and facilitate payment t
 - npm install -g truffle
 - mkdir demo
 - cd demo
-- git clone https://github.com/rajivjc/mortgage-blockchain-demo.git
+- git clone https://github.com/Madhu-bharathi/mortgage-blockchain-demo.git
 - cd mortgage-blockchain-demo
 - npm install
 - truffle build
@@ -16,10 +16,3 @@ They can also improve record visibility for all parties and facilitate payment t
 
 - Access application - http://localhost:8080
 
-Alternatively you can run the following docker images -
-
-- docker run -p 8545:8545 -d rajivjc/testrpc
-- docker run -p 8080:8080 -d rajivjc/mortgage-blockchain-demo
-
-## Addtional Documentation
-Check out this [blog](https://medium.com/@rajiv.cheriyan/lets-get-started-with-your-first-ethereum-dapp-f09feb59dd78) for more details
